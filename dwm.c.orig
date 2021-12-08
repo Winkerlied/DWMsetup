@@ -1463,6 +1463,7 @@ runautostart(void)
 	free(pathpfx);
 	free(path);
 }
+
 void
 scan(void)
 {
